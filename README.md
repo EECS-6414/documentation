@@ -11,3 +11,6 @@ These are two past projects:
 1. Arunkaleeshwaran Narayanan
 2. Alexander Gregor
 3. Jaime Dantas
+
+## Dataset Amazon
+[Amazon review data](https://nijianmo.github.io/amazon/index.html)

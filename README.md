@@ -14,3 +14,8 @@ These are two past projects:
 
 ## Dataset Amazon
 [Amazon review data](https://nijianmo.github.io/amazon/index.html)
+
+## Potential Tools for Sentiment Analysis
+1. [Pattern](https://github.com/clips/pattern)
+2. [PyTorch](https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/2%20-%20Upgraded%20Sentiment%20Analysis.ipynb)
+3. [VADER](https://github.com/cjhutto/vaderSentiment)

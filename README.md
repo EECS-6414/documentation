@@ -1,5 +1,7 @@
 # Documentation
-* The project instructions can be found [here](https://www.eecs.yorku.ca/~papaggel/courses/eecs6414/docs/project/project-all-in-one.pdf).
+* The project instructions can be found [here](https://www.eecs.yorku.ca/~papaggel/courses/eecs6414/docs/project/project-all-in-one.pdf). You can also see mid-term presentation [here](https://github.com/EECS-6414/documentation/blob/main/EECS_6414_Data_Visualization_Project-Midterm_Presentation_v2.pdf).
+
+<p align="center"><img src="cover_presentation.png" height="40%" width="40%"> </p>
 
 ## Project examples
 These are two past projects:

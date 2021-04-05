@@ -1,0 +1,23 @@
+app: 'com.gameloft.android.ANMP.GloftM3HM'
+
+Setiment scores=
+[0.4602,
+  0.2748111111111111,
+  0.23698212927756654,
+  0.13004836065573772,
+  0.2363337966349671,
+  0.31782345360824743,
+  0.37771813186813186,
+  0.3813148571428571]
+  
+  version dates:
+  [datetime.datetime(2011, 12, 18, 0, 0),
+ datetime.datetime(2012, 3, 20, 0, 0),
+ datetime.datetime(2012, 3, 25, 0, 0),
+ datetime.datetime(2012, 11, 19, 0, 0),
+ datetime.datetime(2013, 1, 9, 0, 0),
+ datetime.datetime(2013, 1, 26, 0, 0),
+ datetime.datetime(2014, 11, 12, 0, 0),
+ datetime.datetime(2015, 11, 6, 0, 0),
+ datetime.datetime(2016, 7, 13, 0, 0),
+ datetime.datetime(2018, 8, 1, 0, 0)]

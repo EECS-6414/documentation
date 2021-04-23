@@ -15,7 +15,7 @@ These are two past projects:
 3. Jaime Dantas
 
 ## Dataset Amazon
-[Amazon review data](https://nijianmo.github.io/amazon/index.html)
+[Google Play Store Reviews](https://github.com/EECS-6414/datasets)
 
 ## Tool for Sentiment Analysis
 [VADER](https://github.com/cjhutto/vaderSentiment)
